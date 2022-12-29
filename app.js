@@ -2,7 +2,6 @@ const express = require('express');
 const app = express();
 const mysql = require('mysql');
 const bodyParser = require('body-Parser')
-const htmlToImage = require('html-to-image');
 const fs = require('fs');
 
 app.use(bodyParser.json());
