@@ -1,5 +1,5 @@
 # backend_project
-STEPS involved this the project
+STEPS involved this the project--
 Create a HTML page form.html with the fields name, username , email , phone no, password, confirm password, business name , business address , website url and location cordinates.
 add an action in the form where form is going to submit, add a javascript function to validate password, also add few CSS to look the registration page more beautiful.
 create a database and a table in it. In my case database name is "intern" and table name is "storedata".
